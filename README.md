@@ -7,16 +7,16 @@ Di aplikasi ini juga kita dapat mengetahui jenis - jenis diet yang baik dan bena
 <img src="screenshoot/ss1.jpg" height="400" width="200" />
 
 <h3>2. Menu</h3>
-<img src="screenshoot/ss2.jpg" height="400" width="200" />
+<img src="screenshoot/ss1.jpg" height="400" width="200" />
 
 <h3>3. Resep Makanan & Minuman</h3>
-<img src="screenshoot/ss3.jpg" height="400" width="200" />
+<img src="screenshoot/ss1.jpg" height="400" width="200" />
 
 <h3>4. Detail Resep Makanan & Minuman</h3>
 <img src="screenshoot/ss33.jpg" height="400" width="200" />
 
 <h3>5. Jenis Diet</h3>
-<img src="screenshoot/ss4.jpg" height="400" width="200" />
+<img src="screenshoot/ss1.jpg" height="400" width="200" />
 
 <h3>6. Detail Jenis Diet</h3>
 <img src="screenshoot/ss44.jpg" height="400" width="200" />
